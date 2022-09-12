@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Python, C++ and Javascript**
 
+- 👯 I’m looking to collaborate with other developers 
+
 - 📫 How to reach me **amjadckhaid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
