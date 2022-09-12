@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjad-haider&label=Profile%20views&color=0e75b6&style=flat" alt="amjad-haider" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning Projects**
+- 🌱 I’m currently learning **Computer Vision , Autonomous Driving Technologies**
 
-- 💬 Ask me about **LSTMs, RNN, Machine Learning Models**
+- 💬 Ask me about **Python, C++ and Javascript**
 
 - 📫 How to reach me **amjadckhaid@gmail.com**
 
