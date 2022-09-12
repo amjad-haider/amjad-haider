@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate with other developers 
 
+- 📒 Contribute to more open source projects.
+
 - 📫 How to reach me **amjadckhaid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
