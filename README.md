@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Python, C++ and Javascript**
 
-- 👯 I’m looking to collaborate with other developers 
+- 👯 I’m looking to collaborate **with other developers.**
 
-- 📒 Contribute to more open source projects.
+- 📒 Contribute to more **open source projects.**
 
 - 📫 How to reach me **amjadckhaid@gmail.com**
 
