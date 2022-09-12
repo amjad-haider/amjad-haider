@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amjad Haider</h1>
 <h3 align="center">Masters Student(Commercial Vehicle Technology) at TU Kaiserslautern, Germany. I have an experience of 3 years in the field of Python Automation and GUI frameworks</h3>
 
+<img align="right" alt="Autonomous Driving" width="400" src="https://geoawesomeness.com/wp-content/uploads/2022/03/waymo-open-data.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjad-haider&label=Profile%20views&color=0e75b6&style=flat" alt="amjad-haider" /> </p>
 
 - 🌱 I’m currently learning **Computer Vision , Autonomous Driving Technologies**
