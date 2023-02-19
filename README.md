@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amjad Haider</h1>
-<h3 align="center">Masters Student(Commercial Vehicle Technology) at TU Kaiserslautern, Germany. I have an experience of 3 years in the field of Python Automation and GUI frameworks</h3>
+<h3 align="center">Masters Student(Commercial Vehicle Technology) at [RPTU](https://rptu.de/)
+Kaiserslautern, Germany. I have an experience of 3 years in the field of Python Automation and GUI frameworks</h3>
 
 <img align="right" alt="Autonomous Driving" width="400" src="https://geoawesomeness.com/wp-content/uploads/2022/03/waymo-open-data.gif">
 
