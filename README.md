@@ -8,7 +8,7 @@ Kaiserslautern, Germany. I have an experience of 3 years in the field of Python 
 
 - 🌱 I’m currently learning **Computer Vision , Autonomous Driving Technologies**
 
-- 💬 Ask me about **Python, C++ and Javascript**
+- 💬 Ask me about **Python, C++ and MATLAB**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
