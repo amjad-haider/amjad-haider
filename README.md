@@ -1,3 +1,5 @@
+![Language: German](https://img.shields.io/badge/lang-Deutsch-blue.svg)
+
 <h1 align="center">Hi 👋, I'm Amjad Haider</h1>
 <h3 align="center">Masters Student(Commercial Vehicle Technology) at RPTU
 Kaiserslautern, Germany. I have an experience of 3 years in the field of Python Automation and GUI frameworks</h3>
