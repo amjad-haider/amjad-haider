@@ -12,6 +12,10 @@ Kaiserslautern, Germany. I build software at the intersection of industrial auto
 I work across the stack that moves machines: fieldbus control, embedded targets, robotics, and the simulation and tooling used to test them before they touch hardware.
 Four years of professional experience in Python , Machine Learning, Embedded Systems and Robotics.
 
+Currently open to software engineering roles in automation, embedded systems, robotics and simulation, and to Wissenschaftlicher Mitarbeiter positions . Flexible to relocate around Germany.
+
+Fluent in English and German
+
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amjadhaider-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amjadhaider)
