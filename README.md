@@ -1,5 +1,5 @@
-[![Language: German](https://img.shields.io/badge/lang-Deutsch-blue.svg)](https://github.com/amjad-haider/amjad-haider/blob/main/README.de.md)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjad-haider&label=Profile%20views&color=0e75b6&style=flat" alt="amjad-haider" /> </p>
+[![Language: German](https://img.shields.io/badge/lang-Deutsch-blue.svg)](https://github.com/amjad-haider/amjad-haider/blob/main/README.de.md) [![Profile Views](https://komarev.com/ghpvc/?username=amjad-haider&label=Profile%20views&color=0e75b6&style=flat)]()
+
 
 <h1 align="center">Hi 👋, I'm Amjad Haider</h1>
 <h2 align="center"> Software Engineer - Robotics, Embedded Systems, Control and Simulation</h2>
