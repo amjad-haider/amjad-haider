@@ -1,4 +1,0 @@
-*.st linguist-language=Structured-Text
-*.bb linguist-language=BitBake
-docs/* linguist-documentation
-vendor/* linguist-vendored
