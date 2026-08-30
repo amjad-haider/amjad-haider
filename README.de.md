@@ -19,3 +19,14 @@ Fließende Englisch- und Deutschkenntnisse
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amjadhaider-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amjadhaider)
 
 [![Email](https://img.shields.io/badge/Email-amjad.haider%40gmx.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amjad.haider@gmx.de)
+
+
+## Technologien
+ 
+**In Beruf oder Abschlussarbeit eingesetzt**
+ 
+`Python` · `C++` · `C#` · `MATLAB` · `SQL` · `IEC 61131-3` · `Codesys` · `TwinCAT` · `EtherCAT` · `Embedded Linux` · `Yocto` · `QNX` · `Unreal Engine` · `Unity` · `Blender` · `Linux` · `Git` · `pytest` · `GoogleTest` · `Azure` · `LLMs`
+ 
+**Grundkenntnisse**
+ 
+`Java` · `Vaadin` · `JUnit` · `JavaScript` · `React` · `Angular` · `SFML` · `ImGui` · `MQTT` · `REST / OpenAPI` · `Docker` · `Kubernetes` · `Godot`· `Neo4j` ·
