@@ -16,7 +16,7 @@ Currently open to software engineering roles in automation, embedded systems, ro
 
 Fluent in English and German
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amjadhaider-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amjadhaider)
 
