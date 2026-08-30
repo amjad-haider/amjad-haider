@@ -13,3 +13,9 @@ Vier Jahre Berufserfahrung in den Bereichen Python, maschinelles Lernen, Embedde
 Derzeit offen für Stellen im Bereich Softwareentwicklung in den Bereichen Automatisierung, eingebettete Systeme, Robotik und Simulation sowie für Stellen als wissenschaftlicher Mitarbeiter. Bereit, innerhalb Deutschlands umzuziehen.
 
 Fließende Englisch- und Deutschkenntnisse
+
+## Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amjadhaider-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amjadhaider)
+
+[![Email](https://img.shields.io/badge/Email-amjad.haider%40gmx.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amjad.haider@gmx.de)
